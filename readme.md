@@ -51,5 +51,5 @@ git push origin main
 Conclusion
 This project demonstrates the application of modern machine learning practices, from initial data exploration to model deployment. By leveraging tools like AWS, GitHub, and CI/CD, the entire process is streamlined to enable rapid development and deployment in real-world scenarios.
 
-### Special thanks to Krish Niak Sir for there assom video
+### Special thanks to Krish Naik Sir for there assom video
 
